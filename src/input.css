@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+.ff-outfit-400 {
+    font-family: 'Outfit', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ff-outfit-700 {
+    font-family: 'Outfit', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
